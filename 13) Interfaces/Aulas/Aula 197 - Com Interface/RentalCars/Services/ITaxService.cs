@@ -1,0 +1,7 @@
+﻿namespace RentalCars.Services
+{
+    interface ITaxService
+    {
+        double Tax(double amount);
+    }
+}
